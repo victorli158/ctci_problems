@@ -15,7 +15,3 @@ end
 # Space complexity: O(n)
 # Initial mistakes: Forgot to account for uppercase chars,
 # unless interviewer is ok with those being counted separately
-
-def uniq2?(str)
-  
-end
